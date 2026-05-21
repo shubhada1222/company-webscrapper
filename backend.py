@@ -73,5 +73,6 @@ def ask_question(question):
 
     response = qa.run(question)
     print("Feature branch working")
+    print("second branch")
 
     return response
