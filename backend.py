@@ -73,5 +73,6 @@ def ask_question(question):
 
     response = qa.run(question)
     print("Feature branch working")
+    print("Feature branch code-chat history")
 
     return response
